@@ -54,8 +54,6 @@ Launch the main TUI to begin.
 
 You will be greeted with a menu where you can select which set of customizations to apply.
 
-![TUI Menu](https://place-holder-for-screenshot.com/menu.png) <!-- You can replace this with a real screenshot later! -->
-
 ### 4. Automated Run (For Fresh Installs)
 
 To apply all customizations non-interactively, use the `--all` flag.
